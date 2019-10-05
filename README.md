@@ -1,12 +1,10 @@
-# documents
-This is the place to document anything related to Traveler, the guild.
+# 《旅者》公会 共享文档
 
-Table of contents:
-1. How to participate in raid?
-2. Loot list excel
-3. EPGP rules
-4. Raid guide
-5. Pre-raid preparations (quests, keys, etc) 
-6. Pre-raid gears
-7. roster: list of people who plan to participate in raid
-8. roster: crafters
+## 目录
+1. 如何参加公会团本活动？
+2. EPGP 规则
+3. 团本装备掉落一览表，及相关 GP
+4. 团本攻略
+5. Pre-Raid 攻略
+6. 每 CD 参团成员名单
+7. 公会制造业负责人
